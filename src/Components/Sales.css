@@ -1,0 +1,20 @@
+
+.salecontainer{
+    background-color: rgb(247, 241, 241);
+    
+}
+
+.Resources{
+    width: 500px;
+    /* background-color: black; */
+
+}
+.size{
+    min-width: 20px;
+    height: 22px;
+}
+
+.Heading{
+    color: blanchedalmonds;
+    text-align: center;
+}
